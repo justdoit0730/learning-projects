@@ -1,16 +1,14 @@
-# first_flutter_app
+# flutter-app
 
-A new Flutter project.
+Flutter 입문 실습 앱 (원본: first_flutter_app).
 
-## Getting Started
+| 항목 | 값 |
+|---|---|
+| 최초 생성 | 2023-07-04 |
+| 최종 수정 | 2023-07-06 |
+| learning-projects 통합 | 2026-11-24 |
+| 스택 | Dart · Flutter |
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 구성
+- `lib/` — 앱 소스
+- `android/` · `ios/` · `web/` · `windows/` · `macos/` · `linux/` — 플랫폼별 설정(기본 보일러플레이트)
